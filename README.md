@@ -9,16 +9,22 @@ Processos de filtragem:
   - Um filtro entre datas, ou seja, um range de dados que afete os gráficos e cards de forma dinâmica
   - Um filtro de usuários, mas que vai ser feito através de cliques nas colunas que seja o usuário que queira saber sobre
 
-#Desafio:
+# Desafio:
 - Dinamizar totalmente a base (criando metas de para cada mês e usuário), automatizar para atualização de dados, visualização limpa e saudável para quem ler a base
 
-Descrição da base:
+# Descrição da base:
 Manifesto - número de identificação da carga separada
-Usuário - cada colaborador que participa da equipe de separação
-Total CX - total de caixas separadas
-Total Frac - quantidade de unidades separadas
-Total % Frac - porcentagem de unidades separadas por cada colaborador - Não usamos essa por falta de descrição
-Total Peso - total de peso que o colaborador separou
-Total itens/min - quantidade de itens separados por minuto
-Total Peso / min - quantidade de peso separado por minuto
 
+Usuário - cada colaborador que participa da equipe de separação
+
+Total CX - total de caixas separadas
+
+Total Frac - quantidade de unidades separadas
+
+Total % Frac - porcentagem de unidades separadas por cada colaborador - Não usamos essa por falta de descrição
+
+Total Peso - total de peso que o colaborador separou
+
+Total itens/min - quantidade de itens separados por minuto
+
+Total Peso / min - quantidade de peso separado por minuto
